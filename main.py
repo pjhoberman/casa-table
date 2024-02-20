@@ -56,7 +56,7 @@ def check_dates():
 
         "booking_code": BOOKING_CODE,
         "fc_token": "",
-        "party_size": 6,
+        "party_size": PARTY_SIZE,
         "res_date": "",
         "service": "dinner"
     }
