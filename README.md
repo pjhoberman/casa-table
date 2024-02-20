@@ -26,6 +26,8 @@ You can deploy this app to fly.io, just read some basic docs over there and set 
 ## etc
 In main.py, there are a bunch of variables to set for your specific circumastance.
 
+There is no .exe, sorry.
+
 # What else
 I'm not going to maintain this, but feel free to open an issue if you have any questions. 
 Enjoy!
