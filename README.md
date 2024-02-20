@@ -23,6 +23,9 @@ There is a Dockerfile. You can build and run the container. I set it up specific
 fly.io is my new heroku. Check it out. There's a `fly.toml` file in this repo. 
 You can deploy this app to fly.io, just read some basic docs over there and set the secrets properly.
 
+## etc
+In main.py, there are a bunch of variables to set for your specific circumastance.
+
 # What else
 I'm not going to maintain this, but feel free to open an issue if you have any questions. 
 Enjoy!
