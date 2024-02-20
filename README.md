@@ -9,6 +9,8 @@ For example, it will keep texting you if a table remains available.
 
 But, it works and we got our booking! Feel free to modify or do what you want with this.
 
+**Note: This may or may not be against the Terms of Service of Casa Bonita. Use at your own risk, do your own research, etc**
+
 # How to use
 ## local
 1. Clone this repo
